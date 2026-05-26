@@ -1,0 +1,8 @@
+{
+  "name": "Remix: MX Ingeniería",
+  "description": "Sistema de gestión integral para mantenimiento de aire acondicionado, refrigeración y calefacción. Incluye cotizaciones con foliado, órdenes de servicio, historial de equipos (hoja de vida), calendario, control de herramientas y refacciones, facturación, anticipos y cuentas por cobrar.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
